@@ -26,5 +26,4 @@ Em ambos os casos, é necessário ter o Java JDK instalado. Na pasta estão pres
 A calculadora foi simples de desenvolver. Poderia estar mais aperfeiçoada, mas acredito que esteja funcionando sem maiores problemas.
 Sobre o cadastro de clientes e o relatório de anúncios, não consegui aprender o suficiente a tempo de fazer com que o projeto funcione bem.
 Estou curtindo muito aprender sobre esse universo, obrigada pela oportunidade! 🤗
-Abraço,
-Natália
+Abraço
